@@ -1,7 +1,7 @@
 {
   "name": "smooth-operator-fork-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A fork of the smooth operator syntax theme",
   "repository": "https://github.com/atom/smooth-operator-fork-syntax",
   "license": "MIT",
